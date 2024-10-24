@@ -52,8 +52,7 @@ I am a master's student specializing in **Automation**, **Electronics**, and **R
 ## 🚀 Goals
 
 I am passionate about leveraging my skills in **automation**, **embedded systems**, and **robotics** to work on innovative and impactful projects. I aim to contribute to the development of cutting-edge technologies in **IoT**, **robotics**, and **control systems**.
-<img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif"  width = 1000/>
-
+<img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif"  width = 1000 style="padding: 0; horizontal-align: center;"/>
 
 <!--
 **Juruttungo/Juruttungo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
