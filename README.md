@@ -3,7 +3,7 @@
 
 👋 Hi I am **Eduardo Clavijo Carretero**  
 🎓 Master's student in **Industrial Engineering** with a focus on **Automation and Electronics**.  
-🚀 Passionate about **robotics**, **control systems**, and **embedded software development**.
+🚀 Passionate about **robotics**, **control systems**, and **embedded software development**. 
 
 ---
 
@@ -29,7 +29,7 @@ I am a master's student specializing in **Automation**, **Electronics**, and **R
 
 ---
 
-## 🤖 Robotics & Competitions
+## 🤖 Robotics & Competitions 
 
 ### Cybertech UPM Robotics Competition | Madrid, Spain | 2023
 - **Winner in Line-Following Robot**: Designed, programmed, and built an autonomous line-following robot using **Arduino**.
@@ -52,7 +52,6 @@ I am a master's student specializing in **Automation**, **Electronics**, and **R
 ## 🚀 Goals
 
 I am passionate about leveraging my skills in **automation**, **embedded systems**, and **robotics** to work on innovative and impactful projects. I aim to contribute to the development of cutting-edge technologies in **IoT**, **robotics**, and **control systems**.
-<img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif"  width = 1000 style="padding: 0; horizontal-align: center;"/>
 
 <!--
 **Juruttungo/Juruttungo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
