@@ -1,6 +1,7 @@
-# Eduardo Clavijo Carretero
 
-👋 **Eduardo Clavijo Carretero**  
+![Banner del GitHub de Eduardo Clavijo Carretero](github-header-image.png)
+
+👋 Hi I am **Eduardo Clavijo Carretero**  
 🎓 Master's student in **Industrial Engineering** with a focus on **Automation and Electronics**.  
 🚀 Passionate about **robotics**, **control systems**, and **embedded software development**.
 
@@ -8,7 +9,16 @@
 
 ## 👨‍💻 About Me
 
-I am a master's student specializing in **Automation**, **Electronics**, and **Robotics**. My academic and extracurricular experiences have allowed me to develop a solid foundation in **software development**, **circuit design**, and **robotic systems**. I have a strong interest in tackling complex technical challenges, from building autonomous robots to designing IoT systems.
+<table>
+  <tr>
+    <td>
+      I am a master's student specializing in Automation, Electronics, and Robotics. My academic and extracurricular experiences have allowed me to develop a solid foundation in software development, circuit design, and robotic systems. I have a strong interest in tackling complex technical challenges, from building autonomous robots to designing IoT systems.
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
