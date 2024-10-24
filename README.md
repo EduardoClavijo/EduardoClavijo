@@ -8,17 +8,7 @@
 ---
 
 ## 👨‍💻 About Me
-
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td style="padding: 0; vertical-align: center;">
-      I am a master's student specializing in Automation, Electronics, and Robotics. My academic and extracurricular experiences have allowed me to develop a solid foundation in software development, circuit design, and robotic systems. I have a strong interest in tackling complex technical challenges, from building autonomous robots to designing IoT systems.
-    </td>
-    <td style="padding: 0; vertical-align: center;">
-      <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif"  width = 1000/>
-    </td>
-  </tr>
-</table>
+I am a master's student specializing in **Automation**, **Electronics**, and **Robotics**. My academic and extracurricular experiences have allowed me to develop a solid foundation in **software development**, **circuit design**, and **robotic systems**. I have a strong interest in tackling complex technical challenges, from building autonomous robots to designing IoT systems.
 
 ---
 
@@ -62,6 +52,7 @@
 ## 🚀 Goals
 
 I am passionate about leveraging my skills in **automation**, **embedded systems**, and **robotics** to work on innovative and impactful projects. I aim to contribute to the development of cutting-edge technologies in **IoT**, **robotics**, and **control systems**.
+<img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif"  width = 1000/>
 
 
 <!--
