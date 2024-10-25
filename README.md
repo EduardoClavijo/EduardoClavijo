@@ -2,7 +2,7 @@
 ![Banner del GitHub de Eduardo Clavijo Carretero](github-header-image.png)
 
 👋 Hi I am **Eduardo Clavijo Carretero**  
-🎓 Master's student in **Industrial Engineering** with a focus on **Automation and Electronics**.  
+🎓 Master's student in **Industrial Engineering** specialized on **Automation and Electronics** at [Escuela Técnica Superior de Ingenieros Industriales (ETSII), UPM](https://www.industriales.upm.es/).  
 🚀 Passionate about **robotics**, **control systems**, and **embedded software development**. 
 
 ---
@@ -31,11 +31,11 @@ I am a master's student specializing in **Automation**, **Electronics**, and **R
 
 ## 🤖 Robotics & Competitions 
 
-### Cybertech UPM Robotics Competition | Madrid, Spain | 2023
+### [Cybertech UPM Robotics Competition by RESET](https://www.reset.etsii.upm.es/cybertech/cybertech2019/) | Madrid, Spain | 2023
 - **Winner in Line-Following Robot**: Designed, programmed, and built an autonomous line-following robot using **Arduino**.
 - **2nd Place Overall**: Line-following and maze-solving robot with autonomous functionality.
 
-### ASTI Robotics Challenge | Burgos, Spain | 2023
+### [ASTI Robotics Challenge](https://www.astichallenge.com/) | Burgos, Spain | 2023
 - Designed and programmed a robot for multiple challenges, including **maze-solving** and **line-following**. The robot featured both autonomous and remote-controlled modes.
 
 ---
