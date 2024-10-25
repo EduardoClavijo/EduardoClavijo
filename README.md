@@ -2,13 +2,13 @@
 ![Banner del GitHub de Eduardo Clavijo Carretero](github-header-image.png)
 
 👋 Hi I am **Eduardo Clavijo Carretero**  
-🎓 Master's student in **Industrial Engineering** specialized on **Automation and Electronics** at [Escuela Técnica Superior de Ingenieros Industriales (ETSII), UPM](https://www.industriales.upm.es/).  
+🎓 Master's student in **Industrial Engineering** specialized on **Automation and Electronics** at [Escuela Técnica Superior de Ingenieros Industriales (ETSII)](https://www.industriales.upm.es/), UPM.  
 🚀 Passionate about **robotics**, **control systems**, and **embedded software development**. 
 
 ---
 
 ## 👨‍💻 About Me
-I am a master's student specializing in **Automation**, **Electronics**, and **Robotics**. My academic and extracurricular experiences have allowed me to develop a solid foundation in **software development**, **circuit design**, and **robotic systems**. I have a strong interest in tackling complex technical challenges, from building autonomous robots to designing IoT systems.
+I am a master's student specializing in **Industrial Engineering**, **Automation**, **Electronics**, and **Robotics** with a degree in **Industrial Technologies Engineering**. My academic and extracurricular experiences have allowed me to develop a solid foundation in **software development**, **circuit design**, and **robotic systems**. I have a strong interest in tackling complex technical challenges, from building autonomous robots to designing IoT systems.
 
 ---
 
